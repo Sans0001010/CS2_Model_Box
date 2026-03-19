@@ -13,7 +13,7 @@
 
 ## ✨ 核心特性
 
-<img src="请在此处粘贴你的图片链接" align="right" width="280" alt="CS2 BOX UI 面板">
+<img src="<img width="336" height="826" alt="ScreenShot_2026-03-19_103328_031" src="https://github.com/user-attachments/assets/7a20860d-044b-4ec3-9087-a0ac19a5b18b" />" align="right" width="280" alt="CS2 BOX UI 面板">
 
 * 👤 **模型一键导入**
     * 略缩图可视化选择导入，目前支持探员(ag2)，武器。
