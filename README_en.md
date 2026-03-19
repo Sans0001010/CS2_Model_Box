@@ -13,6 +13,8 @@ It greatly simplifies the workflow from VPK extraction to Blender asset generati
 
 ## ✨ Core Features
 
+<img src="https://github.com/user-attachments/assets/7a20860d-044b-4ec3-9087-a0ac19a5b18b" align="right" width="150" alt="CS2 BOX UI Panel">
+
 * 👤 **1-Click Model Import**
     * Visual import selection with thumbnails. Currently supports agents (ag2) and weapons.
     
@@ -22,6 +24,8 @@ It greatly simplifies the workflow from VPK extraction to Blender asset generati
 
 * 🦴 **1-Click Rig Generation (ARP Integration)**
     * Seamless integration with the Auto-Rig Pro (ARP) add-on. Select the armature, click once, and instantly load presets to generate professional character rigs.
+
+<br clear="both">
 
 ## 🛠️ Prerequisites
 
