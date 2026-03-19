@@ -1,12 +1,11 @@
 # 📦 CS2 BOX for Blender
 
-[![KOOK](https://img.shields.io/badge/KOOK-点击加入我的服务器-42c264?style=for-the-badge)](https://kook.vip/bO28vF)
-
 ![Blender](https://img.shields.io/badge/Blender-3.6+-orange.svg)
 ![License](https://img.shields.io/badge/License-GPL_3.0-green.svg)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 
 > **中文版** | 🌐 **[English](README_en.md)**
+> [![KOOK](https://img.shields.io/badge/KOOK-点击加入我的服务器-42c264?style=for-the-badge)](https://kook.vip/bO28vF)
 
 ---
 
