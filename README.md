@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-GPL_3.0-green.svg)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 
-> 🌐 **[English](README.md)** | **中文版**
+> **中文版** | 🌐 **[English](README_en.md)**
 
 ---
 
@@ -26,7 +26,7 @@
 
 1.  **Blender 3.6** 或更高版本。
 2.  **[Source2Viewer-CLI.exe](https://github.com/ValveResourceFormat/ValveResourceFormat/releases)**：用于反编译 VPK 核心文件 (必须)。
-4.  **Auto-Rig Pro (ARP)**：仅在使用“一键生成控制器”功能时需要 (可选)。
+3.  **Auto-Rig Pro (ARP)**：仅在使用“一键生成控制器”功能时需要 (可选)。
 
 ## 📦 安装与配置
 
