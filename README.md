@@ -4,11 +4,12 @@
 ![License](https://img.shields.io/badge/License-GPL_3.0-green.svg)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 
-> **[English](#english-version)** | **[中文](#中文版)**
+> 🌐 **[English](#en)** | **[中文](#zh)**
 
 ---
 
-<a id="english-version"></a>
+<span id="en"></span>
+
 # 🇺🇸 English Version
 
 **CS2 BOX** is an efficient and powerful Counter-Strike 2 (CS2) model importing add-on for Blender. 
@@ -50,7 +51,8 @@ It streamlines the entire pipeline—from decompiled VPKs to fully shaded, rig-r
 
 ---
 
-<a id="中文版"></a>
+<span id="zh"></span>
+
 # 🇨🇳 中文版
 
 **CS2 BOX** 是一款为 Blender 打造的高效反恐精英 2 (CS2) 模型导入辅助插件。
