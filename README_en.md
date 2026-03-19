@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-GPL_3.0-green.svg)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 
-> 🌐 **English** | **[中文版](README_zh.md)**
+> **[中文版](README.md)** | 🌐 **English**
 
 ---
 
