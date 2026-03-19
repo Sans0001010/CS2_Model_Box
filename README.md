@@ -8,7 +8,9 @@
 
 ---
 
-[![KOOK](https://img.shields.io/badge/KOOK-点击加入我的服务器-42c264?style=for-the-badge)](https://kook.vip/bO28vF)
+<a href="https://kook.vip/bO28vF">
+  <img src="https://img.shields.io/badge/KOOK-点击加入我的服务器-42c264?style=for-the-badge" width="400">
+</a>
 
 **CS2 BOX** 是一款为 Blender 打造的高效反恐精英 2 (CS2) 模型导入辅助插件。
 它极大地简化了从 VPK 提取到 Blender 资产生成的流程，让你只需点击几下即可完美呈现 CS2 资产！
